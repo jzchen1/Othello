@@ -1,6 +1,6 @@
 # Othello
-A 2-Player Othello Game that allows the user to generate a board of "X" rows and "Y" columns.
-Additional features include:  
+A 2-Player Othello Game that allows the user to generate a board of "X" rows and "Y" columns./n
+Additional features include:  \n
 Choosing which color goes first.  
 Choosing which color initially spawns in the top left corner.  
 The win condition being either the player with the most pieces or least pieces.
