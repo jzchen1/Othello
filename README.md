@@ -7,6 +7,8 @@ Choosing which color goes first.
 Choosing which color initially spawns in the top left corner.  
 The win condition being either the player with the most pieces or least pieces.
 
+Both versions of the code will require Othello_Logic.py in order to run.
+
 A pop window will prompt the user to enter specifications that will be used to generate the board when the GUI_Start_Game code is ran.
 
 For "How Many Rows?" please enter a positive integer.
