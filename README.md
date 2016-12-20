@@ -1,3 +1,5 @@
+~~ This Project has been removed from GITHUB on 12/19/16 by the request of a UCI reader. ~~
+
 # Othello
 A 2-Player Othello Game that allows the user to generate a board of "X" rows and "Y" columns.
 
